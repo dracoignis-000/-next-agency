@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/dracoignis-000/dracoignis-000.github.io.git
+	branch = main
