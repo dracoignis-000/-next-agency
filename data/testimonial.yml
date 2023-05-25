@@ -3,37 +3,33 @@ title   : "OPINION FROM REAL PEOPLE"
 subtitle: "What clients says about our services."
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
+    name  : "Wilhelmina Mitellberger"
+    company_position: "CEO, SEL Namibia"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "I would describe Tarry as being an individual, who is dedicated, hard-working, talented, reliable, a team player," 
 
   - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
+    name  : "Ricardo Goagoseb"
+    company_position: "Project Manager, Antares Afrika"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "Well, read and versed in his craft. A value asset to any firm, project or initiative. " 
 
   - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ryan Hillary"
-    company_position: "MD, Udilamo"
+    name  : "Leonard Andreas"
+    company_position: "CFO, Mindsinaction STEAM Namibia"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "Tarry is a skilled and upcoming software developer with a profound focus on front end development. He possesses an extensive knowledge of the most prominent frameworks, including HTML, CSS, JavaScript, and ReactJS," 
 
   - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
+    name  : "Ephraim ELiaser"
+    company_position: "Accounts Manager, Antares Afrika"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "Good team player. He is very social and knows how to connect wit people. Houses a creative conscience, and is capable of critical thinking skills!" 
 
   - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
+    name  : "Ms. Nangula R Uaandja"
+    company_position: "Chair Person, NIPDB"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "A Prospective future Namibian Leader! He is a knowledgeable scholar who shows enthusiasm to learning!" 
 
-  - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
-    company_position: "PDO, Komoyo"
-    quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+  
