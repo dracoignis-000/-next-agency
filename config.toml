@@ -31,9 +31,9 @@ summarylength = 25
 # Site Params
 [params]
   logo = "images/logo.png"
-  dateFormat = "26 FEB 1994"
+  dateFormat = "26 FEB 2020"
   # Meta data
-  description = "Gofdrey | IO"
+  description = "Godfrey | IO"
   author = "Godfrey Tarry Gaoseb"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
@@ -81,9 +81,9 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background2.jpg"
+    background_image      = "images/backgrounds/h-bg-5.jpg"
     heading               = "Embrace the Flow: Time's Constant Pulse, Forever Forward"
-    tagline               = "Godfrey Tarry Gaoseb"
+    tagline               = "EMIT"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
@@ -96,7 +96,7 @@ summarylength = 25
 
   [params.call_to_action]
     enable              = true
-    background_image    = "images/backgrounds/hero-background3.jpg"
+    background_image    = "images/backgrounds/h-bg-6.jpg"
     title               = "LET’S WORK TOGETHER"
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
@@ -104,6 +104,7 @@ summarylength = 25
     secondary_button_url = "portfolio"
 
   [params.footer]
+  
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
