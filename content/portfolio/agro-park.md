@@ -1,16 +1,16 @@
 ---
-title: "Namibia Constitution"
-date: 2019-12-23T15:44:46+06:00
+title: "Agro Park"
+date: 2019-12-23T15:55:44+06:00
 type: portfolio
-image: "images/projects/AgroPark-thumb.jpg"
-category: ["A mobile Application housing the constitution of Namibia!"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/namcon-thumb1.jpg", "images/projects/namcon-thumb2.jpeg"]
+image: "images/projects/SEL-thumb.jpg"
+category: ["Agri Tech Ecommerce Online store Web Application"]
+project_images: ["images/projects/agropark-tumb1.png", "images/projects/agropark-tumb2.png", "images/projects/agropark-tumb3.png", ]
 feature_image: 
 
 ---
 
 ---
-##### title: Namibia Constitution Mobile Application
+##### title: Agro Park. Bringing the Farmer Closer to the User!
 The Farmer's Portal is a web-based application that aims to help farmers manage their crops and improve their yields. It provides various features such as weather updates, crop advice, market prices, and a forum for farmers to connect with each other.
 
 ---

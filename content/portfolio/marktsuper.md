@@ -5,5 +5,16 @@ type: portfolio
 image: "images/projects/pr-thumb1.jpg"
 category: ["Ecommerce. Buying and Selling Online Web Grocery Store Design."]
 project_images: ["images/projects/1MarktSuperThumb.png", "images/projects/2MarktSuperThumb.png", "images/projects/3MarktSuperThumb.png", "images/projects/4MarktSuperThumb.png", ]
+feature_image: 
+
 ---
 
+---
+##### title: Markt Super, Your one stop grocery store online!
+
+This is a website design focused on showcasing an online grocery store. Housing an About, Services, Shop and Contact Us pages respectively The website design was created using HTML and CSS and JavaScript
+
+---
+##### author: Godfrey Tarry Gaoseb
+
+[Github] https://github.com/dracoignis-000/marktsuper.com.git
