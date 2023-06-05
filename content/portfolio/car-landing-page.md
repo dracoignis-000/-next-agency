@@ -5,18 +5,15 @@ type: portfolio
 image: "images/projects/AgroPark-thumb.jpg"
 category: ["A static landing  design page showcasing a sports car with cool CSS elements"]
 project_images: ["images/projects/cars1.png", "images/projects/cars2.png", "images/projects/cars3.png", ]
-feature_image: 
+feature_image: images/projects/1.png
 
 ---
 
 ---
 ##### title: Landing Page Design
 
-We are a space where students explore Science, Technology, Engineering, Arts and Mathematics through exciting hands-on activities. Additionally, we take pride in offering quality ICT and Engineering Services.
+This is a web design showcasing a landing page for a car selling company. The website house a single static page with links and custom design. This landing page was designed using HTML and beautiful CSS
 
-My contributions where to is the company's website portfolio, where I
-demonstrated my proficiency in React a javascript framework by developing a user-friendly interface that enhanced our online
-presence and increased our visibility.
 
 ---
 ##### author: Godfrey Tarry Gaoseb

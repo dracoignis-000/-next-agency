@@ -5,7 +5,7 @@ type: portfolio
 image: "images/projects/SEL-thumb.jpg"
 category: ["Agri Tech Ecommerce Online store Web Application"]
 project_images: ["images/projects/agropark-tumb1.png", "images/projects/agropark-tumb2.png", "images/projects/agropark-tumb3.png", ]
-feature_image: 
+feature_image: images/projects/5.png
 
 ---
 

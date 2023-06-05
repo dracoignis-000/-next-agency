@@ -5,7 +5,7 @@ type: portfolio
 image: "images/projects/AgroPark-thumb.jpg"
 category: ["A mobile Application housing the constitution of Namibia!"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/namcon-thumb1.jpg", "images/projects/namcon-thumb2.jpeg"]
-feature_image: 
+feature_image: images/projects/5.png
 
 ---
 

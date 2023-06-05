@@ -11,11 +11,10 @@ feature_image: images/projects/africathumb1.png
 ---
 ##### title: Africa Uncovered
 
-We are a space where students explore Science, Technology, Engineering, Arts and Mathematics through exciting hands-on activities. Additionally, we take pride in offering quality ICT and Engineering Services.
+Africa, a continent rich in history, culture, and resilience, celebrates Africa Day on the 25th of May each year. This significant occasion commemorates the foundation of the Organisation of African Unity (OAU) in 1963, now known as the African Union (AU). Africa Day is a vibrant celebration of African heritage, unity, and progress. In this blog, we delve into the historical significance of Africa Day and explore the contemporary celebrations that embrace the continent's diverse cultures and aspirations.
 
-My contributions where to is the company's website portfolio, where I
-demonstrated my proficiency in React a javascript framework by developing a user-friendly interface that enhanced our online
-presence and increased our visibility.
+This project was dedicated to celebrate Africa day and includes a rich gallery of africa and its history
+
 
 ---
 ##### author: Godfrey Tarry Gaoseb
