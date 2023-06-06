@@ -21,3 +21,4 @@ This is a website design focused on showcasing an Administration Panel. Housing 
 
 [Github] https://github.com/dracoignis-000/adminhub.com.git
 
+print("hello world)
