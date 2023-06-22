@@ -82,7 +82,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/Home.svg"
+    background_image      = "images/backgrounds/hero_bg-4.svg"
     primary_button_url    = "portfolio"
 
   [params.portfolio]
