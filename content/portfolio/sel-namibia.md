@@ -4,13 +4,19 @@ date: 2019-12-23T15:58:10+06:00
 type: portfolio
 image: "images/projects/SEL-thumb.jpg"
 category: ["Social Emotional Learning Portfolio Website for SEL Namibia."]
-project_images: ["images/projects/sel-image-1.png", "images/projects/sel-thumb.jpg"]
+project_images:
+  [
+    "images/projects/selnamibia1.png",
+
+    "images/projects/selnamibia2.png",
+    "images/projects/selnamibia3.png",
+    "images/projects/selnamibia4.png",
+  ]
 feature_image: images/projects/sel-thumb1.png
+---
 
 ---
 
-
----
 ##### title: Social Emotional Learning Namibia
 
 SEL Namibia Project (Social Emotional learning). In
@@ -23,8 +29,5 @@ needs, such as website, email configuration, supporting youth with coding skills
 knowledge.
 
 ---
+
 ##### author: Godfrey Tarry Gaoseb
-
-
-
-

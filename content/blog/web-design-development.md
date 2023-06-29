@@ -5,8 +5,6 @@ feature_image: images/blog/blog-details-image.jpg
 author: Alexender Schoitiz
 ---
 
-#### PRICE LIST
-
 It is with great pleasure and enthusiasm that I present to you our comprehensive web development price list. As you go through this document, I want to express my sincere gratitude for considering EMIT IO as your trusted partner in transforming your big ideas into a remarkable digital experience.
 
 Starter Package: The Starter Package offers two design templates for pages, allowing you to choose from pre-designed layouts for your website. It includes styling and theming according to your business requirements, ensuring a consistent and visually appealing design. The package also includes responsive design, making your website compatible and optimized for different devices. However, web hosting is not included in this package.
@@ -23,32 +21,32 @@ _A static website is a basic type of website that contains fixed content and doe
 
 > Please note that the pricing details and checkboxes in the table represent the availability of specific features or services in each package.
 
-| Static Website  | Deliverables                                        | Price     |
-| --------------- | --------------------------------------------------- | --------- |
-| Starter Package | - 2 design templates for pages                      | N$400.00  |
-|                 | - 4 pages                                           | ✓         |
-|                 | - Styling and theme according to client portfolio   | ✓         |
-|                 | - Responsive design                                 | ✓         |
-|                 | - Web hosting                                       | ✗         |
-|                 | - Dynamic and interactive elements                  | ✗         |
-|                 | - Database integration                              | ✗         |
-|                 | - Content management system                         | ✗         |
-| Pro Package     | - 4 design templates for pages                      | N$555.00  |
-|                 | - 6 pages                                           | ✓         |
-|                 | - Styling and theming according to client portfolio | ✓         |
-|                 | - Responsive design                                 | ✓         |
-|                 | - Web hosting                                       | ✓         |
-|                 | - Dynamic and interactive elements                  | ✗         |
-|                 | - Database integration                              | ✗         |
-|                 | - Content management system                         | ✗         |
-| Premium Package | - 5 design templates for pages                      | N$ 800.00 |
-|                 | - 4 pages                                           | ✓         |
-|                 | - Styling and theme according to client portfolio   | ✓         |
-|                 | - Responsive design                                 | ✓         |
-|                 | - Web hosting                                       | ✓         |
-|                 | - Dynamic and interactive elements                  | ✓         |
-|                 | - Database integration                              | ✓         |
-|                 | - Content management system                         | ✓         |
+| Static Website  | Deliverables                                        | Price      |
+| --------------- | --------------------------------------------------- | ---------- |
+| Starter Package | - 2 design templates for pages                      | N$600.00   |
+|                 | - 4 pages                                           | ✓          |
+|                 | - Styling and theme according to client portfolio   | ✓          |
+|                 | - Responsive design                                 | ✓          |
+|                 | - Web hosting                                       | ✗          |
+|                 | - Dynamic and interactive elements                  | ✗          |
+|                 | - Database integration                              | ✗          |
+|                 | - Content management system                         | ✗          |
+| Pro Package     | - 4 design templates for pages                      | N$755.00   |
+|                 | - 6 pages                                           | ✓          |
+|                 | - Styling and theming according to client portfolio | ✓          |
+|                 | - Responsive design                                 | ✓          |
+|                 | - Web hosting                                       | ✓          |
+|                 | - Dynamic and interactive elements                  | ✗          |
+|                 | - Database integration                              | ✗          |
+|                 | - Content management system                         | ✗          |
+| Premium Package | - 5 design templates for pages                      | N$ 1200.00 |
+|                 | - 6 pages                                           | ✓          |
+|                 | - Styling and theme according to client portfolio   | ✓          |
+|                 | - Responsive design                                 | ✓          |
+|                 | - Web hosting                                       | ✓          |
+|                 | - Dynamic and interactive elements                  | ✓          |
+|                 | - Database integration                              | ✓          |
+|                 | - Content management system                         | ✓          |
 
 ### Dynamic Website:
 
@@ -68,7 +66,7 @@ They provide flexibility, scalability, and the ability to adapt to changing busi
 
 | Dynamic Website | Deliverables                                        | Price      |
 | --------------- | --------------------------------------------------- | ---------- |
-| Starter Package | - 2 design templates for pages                      | N$500.00   |
+| Starter Package | - 2 design templates for pages                      | N$800.00   |
 |                 | - 4 pages                                           | ✓          |
 |                 | - Styling and theme according to client portfolio   | ✓          |
 |                 | - Responsive design                                 | ✓          |
@@ -76,7 +74,7 @@ They provide flexibility, scalability, and the ability to adapt to changing busi
 |                 | - Dynamic and interactive elements                  | ✗          |
 |                 | - Database integration                              | ✗          |
 |                 | - Content management system                         | ✗          |
-| Pro Package     | - 4 design templates for pages                      | N$855.00   |
+| Pro Package     | - 4 design templates for pages                      | N$1055.00  |
 |                 | - 6 pages                                           | ✓          |
 |                 | - Styling and theming according to client portfolio | ✓          |
 |                 | - Responsive design                                 | ✓          |
@@ -84,7 +82,7 @@ They provide flexibility, scalability, and the ability to adapt to changing busi
 |                 | - Dynamic and interactive elements                  | ✗          |
 |                 | - Database integration                              | ✗          |
 |                 | - Content management system                         | ✗          |
-| Premium Package | - 5 design templates for pages                      | N$ 1000.00 |
+| Premium Package | - 5 design templates for pages                      | N$ 1300.00 |
 |                 | - 4 pages                                           | ✓          |
 |                 | - Styling and theme according to client portfolio   | ✓          |
 |                 | - Responsive design                                 | ✓          |
@@ -99,9 +97,13 @@ In summary, a dynamic website offers interactivity, personalization, and real-ti
 
 With a combination of technical expertise, creative prowess, and a customer-centric approach, we are confident in our ability to turn your vision into a reality. Whether you choose our Starter, Pro, or Premium Package, rest assured that every detail will be carefully considered and meticulously executed.
 
+> User Experience Design is the rocket fuel that propels digital products to success. It's all about creating delightful, intuitive, and user-centric experiences.I have a diverse skill set in front end web development. And would be honoured to collaborate with you in updating your already up website.
+
+## N$ 200 / hour
+
 As you explore the price list, feel free to reach out to us with any questions, clarifications, or customization requests. We are here to guide you through the process, offer expert advice, and ensure a smooth and rewarding collaboration from start to finish.
 
-> Thank you once again for considering EMIT IO as your preferred web development partner. We look forward to the opportunity of bringing your VAT digital experience to life and making a lasting impact in the online world.
+> Thank you once again for considering EMIT IO as your preferred web development partner. We look forward to the opportunity of bringing your tailored digital experience to life and making a lasting impact in the online world.
 
 > Warmest regards,
 
