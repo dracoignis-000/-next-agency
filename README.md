@@ -1,5 +1,5 @@
 
-# Hugo Template for Artificial Intelligence Automation and Web Development Services Agency
+# Hugo Template for  Agency
 
 
 
